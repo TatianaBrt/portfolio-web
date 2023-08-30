@@ -27,7 +27,7 @@ function App () {
     <nav className={`navbar ${isOpen ? 'active' : " "}`}>
     <span className='arrow' onClick={()=>setIsOpen(!isOpen)}><img src={imageArrow} width="70px" alt="icon"/></span>
     <span className='logo'>WebDev</span>
-    <Link to="/" className='Link linltxt'>HOME</Link>
+    <Link to="/home" className='Link linltxt'>HOME</Link>
     <Link to="/about" className='Link linltxt'>ABOUT</Link>
     <Link to="/skills" className='Link linltxt'>SKILLS</Link>
     <Link to="/portfolio" className='Link linltxt'>PORTFOLIO</Link>
@@ -37,7 +37,7 @@ function App () {
     </header>
 
     <Routes>
-    <Route path="/" element={<Home/>}/>
+    <Route path="/home" element={<Home/>}/>
     <Route path="/about" element={<About/>}/>
     <Route path="/skills" element={<Skills/>}/>
     <Route path="/portfolio" element={<Portfolio/>}/>
