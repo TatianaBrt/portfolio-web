@@ -27,7 +27,7 @@ function App () {
     <nav className={`navbar ${isOpen ? 'active' : " "}`}>
     <span className='arrow' onClick={()=>setIsOpen(!isOpen)}><img src={imageArrow} width="70px" alt="icon"/></span>
     <span className='logo'>WebDev</span>
-    <Link to="/home" className='Link linltxt'>HOME</Link>
+    <Link to="/" className='Link linltxt'>HOME</Link>
     <Link to="/about" className='Link linltxt'>ABOUT</Link>
     <Link to="/skills" className='Link linltxt'>SKILLS</Link>
     <Link to="/portfolio" className='Link linltxt'>PORTFOLIO</Link>
