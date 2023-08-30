@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.d5ebb41e.css",
+    "main.js": "/project/static/js/main.ce6d49ce.js",
+    "static/js/787.ec704a7a.chunk.js": "/project/static/js/787.ec704a7a.chunk.js",
+    "static/media/react.png": "/project/static/media/react.6bcffb56bd0efaa47767.png",
+    "static/media/icons8-github-375.png": "/project/static/media/icons8-github-375.30e4efc4aa04087eb0ce.png",
+    "static/media/user (3).png": "/project/static/media/user (3).30ee11ecebb8d9aa78d4.png",
+    "static/media/gsap.png": "/project/static/media/gsap.bfeff9a290e1d17846b2.png",
+    "static/media/html (1).png": "/project/static/media/html (1).6e930594286d8afe4c79.png",
+    "static/media/css-3 (1).png": "/project/static/media/css-3 (1).463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap (1).png": "/project/static/media/bootstrap (1).268c4375260420e8d982.png",
+    "static/media/js1.png": "/project/static/media/js1.3dfb665e058d08c99f28.png",
+    "static/media/contact.png": "/project/static/media/contact.3c43d7bb9bfedae04e3f.png",
+    "index.html": "/project/index.html",
+    "main.d5ebb41e.css.map": "/project/static/css/main.d5ebb41e.css.map",
+    "main.ce6d49ce.js.map": "/project/static/js/main.ce6d49ce.js.map",
+    "787.ec704a7a.chunk.js.map": "/project/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ebb41e.css",
+    "static/js/main.ce6d49ce.js"
+  ]
+}
