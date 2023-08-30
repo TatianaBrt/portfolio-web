@@ -365,10 +365,11 @@ flex-wrap: wrap;
 }
 
 .hhome{
-  font-size: 60px;
+  margin-top: 10px;
+  font-size: 50px;
 }
 .texthome{
-  font-size: 40px;
+  font-size: 35px;
 }
 .iconhome{
   margin-top: 30px;
