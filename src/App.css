@@ -102,7 +102,7 @@ margin-top: 70px;
 .headerContact{
   text-align: center;
   margin-top: 10px;
-  font-size: 35px;
+  font-size: 40px;
   font-family: 'Poppins', sans-serif;
   color: rgb(217, 245, 248);
   text-shadow: 4px 4px 6px #69181F;
@@ -581,10 +581,10 @@ transform: translateX(140%);
   
  .headerContact{
   margin-top: 15px;
-  font-size: 40px;
+  font-size: 35px;
  }
 .conttext{
-  font-size: 18px;
+  font-size: 15px;
 }
 
  .exemp {
