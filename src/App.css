@@ -517,6 +517,9 @@ textarea{
       .textFooter{
 font-size: 13px;
 }
+  .iconComputer{
+     width: 100px;
+  }
 .btn{
 display: block;
   width: 34px;
