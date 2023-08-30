@@ -353,7 +353,7 @@ text-align: center;
     font-size: 13px;
  }
 .bghome{
-  margin-top: 150px;
+  margin-top: 100px;
 display: flex;
 justify-content: space-around;
 flex-wrap: wrap;
@@ -362,7 +362,6 @@ flex-wrap: wrap;
   font-family: 'Poppins', sans-serif;
   color: rgb(217, 245, 248);
   text-shadow: 4px 4px 6px #69181F;
-   margin-top: 20px;
 }
 
 .hhome{
