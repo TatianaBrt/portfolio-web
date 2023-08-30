@@ -12,7 +12,7 @@ function Home(){
          <p className='texthome'>Web Developer</p>       
         </div>
         <div className='iconhome'>
-        <img src='https://cdn-icons-png.flaticon.com/128/9666/9666694.png' alt='computer' width="200px"/>
+        <img className='iconComputer' src='https://cdn-icons-png.flaticon.com/128/9666/9666694.png' alt='computer' width="200px"/>
         </div>
         </div>
         <div className="iconmedia">
