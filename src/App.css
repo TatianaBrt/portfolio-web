@@ -625,20 +625,9 @@ text-align: center;
 margin-left: 10px;
 }
 
-.iconmedia{
-  margin: auto;
-  padding: 50px;
-  margin-left: 20px;
-}
-.hhome{
-  font-size: 35px;
-  text-align: center;
-  margin-left: 20px;
-}
-.texthome{
-  font-size: 30px;
-  text-align: center;
-  margin-left: 20px;
+  .hhome, .iconhome, .texthome{
+display: flex;
+justify-content: center;
 }
 .skills{
   margin-top: 20px;
