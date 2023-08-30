@@ -639,8 +639,11 @@ margin-left: 30px;
   text-align: center;
 }
 .skills{
-  margin-top: 20px
+  margin-top: 20px;
 }
-
+  .headerSkills{
+    margin-top:20px;
+  }
+}
 
   
