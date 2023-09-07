@@ -18,14 +18,14 @@ function Skills(){
             </div>
             <h1 className='headerSkills'>SKILLS</h1>
            <div className='icons' >
-           <img className='iconSkill' src={imageReact} alt='icon'/>
-           <img className='iconSkill'  src={imageJs} alt='icon'/>
-           <img className='iconSkill' src={imageNode} alt='icon'/>
-           <img className='iconSkill' src={imageBootstrap} alt='icon'/>
-           <img className='iconSkill' src={imageGithub} alt='icon'/>
-           <img className='iconSkill' src={imageGsap} alt='icon'/>
-           <img className='iconSkill' src={imageHTML} alt='icon'/>
-           <img className='iconSkill' src={imageCSS} alt='icon'/>
+           <img className='iconSkill' src={imageReact} alt='iconReact'  title="React"/>
+           <img className='iconSkill'  src={imageJs} alt='iconJavaScript' title="JavaScript"/>
+           <img className='iconSkill' src={imageNode} alt='iconNode.js' title="Node.js"/>
+           <img className='iconSkill' src={imageBootstrap} alt='iconNode.js' title="Bootstrap"/>
+           <img className='iconSkill' src={imageGithub} alt='iconGitHub' title="GitHub"/>
+           <img className='iconSkill' src={imageGsap} alt='iconGSAP' title="GSAP"/>
+           <img className='iconSkill' src={imageHTML} alt='iconHTML5' title="HTML5"/>
+           <img className='iconSkill' src={imageCSS} alt='iconCSS3' title="CSS3"/>
            </div>
 
             </div>
