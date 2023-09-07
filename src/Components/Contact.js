@@ -15,18 +15,18 @@ function Contact(){
         <input type="hidden" name="_language" value="en"/>
       <div className='formContact'>
           <label>
-          <input className="text-input form-control" name="message" id="textName" cols="30" rows="10" placeholder="Enter your name..." />
+          <input className="text-input form-control" name="message" id="textName" cols="30" rows="10" placeholder="Enter your name..."required="required" />
           </label>
     </div>
     <div className='formContact'>
           <label>
-          <input className="text-input form-control" name="message" id="textMail" cols="30" rows="10" placeholder="Enter your mail..."/>
+          <input className="text-input form-control" name="message" id="textMail" cols="30" rows="10" placeholder="Enter your mail..." required="required"/>
           </label>
     </div>
    
     <div className='formContact'>
           <label>
-        <textarea className="text-input form-control" name="message" id="message" cols="30" rows="10" placeholder="Enter your message..." ></textarea>
+        <textarea className="text-input form-control" name="message" id="message" cols="30" rows="10" placeholder="Enter your message..." required="required" ></textarea>
           </label>
     </div>
     <div className='formContact'>
